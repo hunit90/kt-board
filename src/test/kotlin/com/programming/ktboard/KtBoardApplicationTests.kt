@@ -9,5 +9,4 @@ class KtBoardApplicationTests {
     @Test
     fun contextLoads() {
     }
-
 }
